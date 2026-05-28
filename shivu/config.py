@@ -10,7 +10,7 @@ class Config(object):
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "Collect_em_support"
     UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
+    BOT_USERNAME = "lakkiztestbot"
     CHARA_CHANNEL_ID = "-1003592743292"
     api_id = 34686174
     api_hash = "a3b87284000993c5959da76ce0d48caf"
